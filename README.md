@@ -45,5 +45,5 @@ Durante a construção deste projeto, foram trabalhados os seguintes conceitos:
     Caixas de Destaque (KPI Cards)
 
     Fórmulas como: SOMASES, SE, FILTRO, DATA, TEXTO
-Segue imagem: 
-![image](https://github.com/user-attachments/assets/175e158d-826e-479d-8781-3b0da9acdddc)
+Segue imagem: ![xbox](https://github.com/user-attachments/assets/1ae11f88-9cfc-4061-b3e9-77829da105a1)
+
